@@ -22,13 +22,14 @@
        "status": "In Stock"
     }
 ], 
-  "users": 
+"users": [
     {
-    "name": "Tom",
-    "email": "Tom@gmail.com",
-    "mobile": "8761234567",
-    "address": "Mobay",
-    "password": "12345678",
-    "cpassword": "12345678"
+      "name": "Tom",
+      "email": "Tom@gmail.com",
+      "mobile": "8761234567",
+      "address": "Mobay",
+      "password": "12345678",
+      "cpassword": "12345678"
     }
+  ]
 }
