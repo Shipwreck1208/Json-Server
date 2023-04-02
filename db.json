@@ -1,4 +1,27 @@
 {
+  "products": [
+    {
+       "id": 1,
+       "image": "sean-domingo-0FpCN0HiOhs-unsplash.jpg",
+       "name": "BathSuit",
+       "price": "1500.00",
+       "status": "In Stock"
+    },
+    {
+       "id": 2,
+       "image": "tai-s-captures-gWJKFw69lHs-unsplash.jpg",
+       "name": "BathSuit",
+       "price": "1500.00",
+       "status": "Out Stock"
+    },
+    {
+       "id": 3,
+       "image": "tai-s-captures-9kdYJDorjac-unsplash.jpg",
+       "name": "BathSuit",
+       "price": "1500.00",
+       "status": "In Stock"
+    }
+], 
   
 "users": [
     {
