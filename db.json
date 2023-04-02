@@ -21,5 +21,15 @@
        "price": "1500.00",
        "status": "In Stock"
     }
-]
+], 
+  "users": [
+    {
+    "name": "Tom",
+    "email": "Tom@gmail.com",
+    "mobile": "8761234567",
+    "address": "Mobay",
+    "password": "12345678",
+    "cpassword": "12345678",
+    }
+    ]
 }
